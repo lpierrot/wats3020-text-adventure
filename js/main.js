@@ -38,6 +38,11 @@ let currentPage = null;
 //     function (and give it the `slug` as a parameter).
 //  3. It should invoke the `updatePage()` function (and give it the
 //     `currentPage` object as a parameter).
+changePage (slug)
+
+recordChoice (slug)
+
+updatePage (slug)
 
 
 
