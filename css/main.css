@@ -39,12 +39,12 @@ h1, h2 {
 body {
     width: 80%;
     margin: 1rem auto;
-    padding: 3rem 2rem;
-    background: #ff4f4f;
+    padding: 10rem 5rem;
+    background: #fefbd8;
     color: #666;
     font-family: Helvetica, Arial, sans-serif;
     border: 4px double #666;
 }
 html {
-    background: #e8e8e8 url('../images/vertical-waves.png') repeat;
+    background: rgba(255, 255, 128, .5) url('../images/vertical-waves.png') repeat;
 }
